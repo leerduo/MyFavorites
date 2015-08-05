@@ -15,3 +15,34 @@
 
 
 ----------
+
+
+> * [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
+
+
+![demo](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout/blob/master/sc/animation.gif)
+
+----------
+
+> * [BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh)
+
+![demo](https://github.com/recruit-lifestyle/BeerSwipeRefresh/blob/master/sc/animation_beer.gif)
+
+
+
+----------
+
+
+> * [FlyTxtView](https://github.com/tosslife/FlyTxtView)
+
+![demo](https://github.com/tosslife/FlyTxtView/blob/master/demo.gif)
+
+
+----------
+
+> * [FoldingTabBar.Android](https://github.com/tosslife/FoldingTabBar.Android)
+
+![demo](https://github.com/tosslife/FoldingTabBar.Android/blob/master/simple.gif)
+
+
+----------

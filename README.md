@@ -7,4 +7,10 @@
 
 ----------
 
+> * [SlideSwitch](https://github.com/Leaking/SlideSwitch)
 
+![demo1](https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_a.png)
+![demo2](https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif)
+
+
+----------

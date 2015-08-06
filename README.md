@@ -46,3 +46,44 @@
 
 
 ----------
+
+> * [nice-spinner](https://github.com/arcadefire/nice-spinner)
+
+![demo](https://github.com/arcadefire/nice-spinner/blob/master/nice-spinner.gif)
+
+
+----------
+
+> * [BubbleTextView](https://github.com/dupengtao/BubbleTextView)
+
+<img src="https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67" width="340" />
+
+----------
+
+> * [MetaballLoading](https://github.com/dodola/MetaballLoading)
+
+<img src="https://github.com/dodola/MetaballLoading/blob/master/metaball.gif" width="340" />
+<img src="https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif" width="340" />
+
+
+----------
+
+
+> * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+
+
+
+![SmartTabLayout Demo1][demo1_gif] ![SmartTabLayout Demo2][demo2_gif]
+![SmartTabLayout Demo3][demo3_gif] ![SmartTabLayout Demo4][demo4_gif]
+![SmartTabLayout Demo5][demo5_gif] ![SmartTabLayout Demo6][demo6_gif]
+![SmartTabLayout Demo7][demo7_gif]
+
+----------
+
+[demo1_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif
+[demo2_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif
+[demo3_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif
+[demo4_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif
+[demo5_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo5.gif
+[demo6_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo6.gif
+[demo7_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo7.gif

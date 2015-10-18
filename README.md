@@ -1,5 +1,32 @@
 #控件
 
+> * [VerticalViewPager](https://github.com/kaelaela/VerticalViewPager)
+
+![default](art/default.gif) ![zoom_out](art/zoom_out.gif) ![stack](art/stack.gif)
+
+----------
+
+
+
+> * [pull-back-layout](https://github.com/oxoooo/pull-back-layout)
+
+Pull down to finish an Activity.
+
+![demo1](https://github.com/oxoooo/pull-back-layout/blob/master/screenshot.gif)
+
+----------
+
+
+> * [Rhythm](https://github.com/Actinarium/Rhythm)
+
+
+A small library for Android that draws customizable grids and guides over views, helping to fine tune your layouts
+
+![Rhythm](https://github.com/Actinarium/Rhythm/blob/master/images/rhythm-v0.9.png)
+
+
+----------
+
 > * [AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)
 
 ![demo1](https://cloud.githubusercontent.com/assets/11768239/9027657/600244d6-397b-11e5-916f-409d4ab3de28.gif)
@@ -130,3 +157,15 @@ It lets you browse all categories of Dribbble, popular ,everyone and debuts.
 [demo5_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo5.gif
 [demo6_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo6.gif
 [demo7_gif]: https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo7.gif
+
+
+# 其他
+
+> * [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)
+
+QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。IBM人工智能计算机系统"沃森"（Watson）在2011年2月美国热门的电视智力问答节目"危险边缘"（Jeopardy！）中战胜了两位人类冠军选手，QuestionAnsweringSystem就是IBM Watson的Java开源实现。
+
+
+----------
+
+

@@ -1,5 +1,34 @@
 #控件
 
+> * [android-vertical-slide-view](https://github.com/xmuSistone/android-vertical-slide-view)
+
+vertical slide to switch to the next fragment page.
+
+仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页。使用ViewDragHelper，滑动比较流畅。
+
+scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻力。
+
+
+![demo](https://github.com/xmuSistone/android-vertical-slide-view/blob/master/capture.gif)
+
+
+----------
+
+> * [MagicCircle](https://github.com/DevinShine/MagicCircle)
+
+![MagicCircle](https://github.com/DevinShine/MagicCircle/blob/master/art/pic01.gif)
+
+
+----------
+
+> * [Shape Image View](https://github.com/siyamed/android-shape-imageview)
+
+
+
+![demo](https://github.com/siyamed/android-shape-imageview/blob/master/images/all-samples.png)
+
+----------
+
 > * [VerticalViewPager](https://github.com/kaelaela/VerticalViewPager)
 
 ![default](https://github.com/kaelaela/VerticalViewPager/blob/master/art/default.gif) ![zoom_out](https://github.com/kaelaela/VerticalViewPager/blob/master/art/zoom_out.gif) ![stack](https://github.com/kaelaela/VerticalViewPager/blob/master/art/stack.gif)
@@ -236,6 +265,11 @@ It lets you browse all categories of Dribbble, popular ,everyone and debuts.
 
 1. [Google编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 2. [Google style guide](http://code.google.com/p/google-styleguide/)
+
+
+---------- 
+
+
 
 # 其他
 

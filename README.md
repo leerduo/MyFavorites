@@ -2,7 +2,7 @@
 
 > * [VerticalViewPager](https://github.com/kaelaela/VerticalViewPager)
 
-![default](art/default.gif) ![zoom_out](art/zoom_out.gif) ![stack](art/stack.gif)
+![default](https://github.com/kaelaela/VerticalViewPager/blob/master/art/default.gif) ![zoom_out](https://github.com/kaelaela/VerticalViewPager/blob/master/art/zoom_out.gif) ![stack](https://github.com/kaelaela/VerticalViewPager/blob/master/art/stack.gif)
 
 ----------
 
